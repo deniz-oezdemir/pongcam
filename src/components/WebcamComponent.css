@@ -1,0 +1,11 @@
+.webcam-container {
+	position: fixed;
+	bottom: 20px;
+	right: 20px;
+	z-index: 100;
+}
+
+.webcam-container video {
+border-radius: 8px;
+border: 2px solid #333;
+}
